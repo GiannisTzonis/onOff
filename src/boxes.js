@@ -21,6 +21,6 @@ export default [
   },
   {
     id: 6,
-    on: false,
+    on: true,
   },
 ];
